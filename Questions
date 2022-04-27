@@ -1,0 +1,16 @@
+Claw/Arm:
+
+- When told to raise (or lower) its arm past its limit, will the moter keep turn, and more importantly do we need to keep the limit in mind so as to not damage the robot
+- same question but with the claw
+- how much, from a fully 90 degree/straight up position, how far down does the arm need to go
+- does the orientation/degree of the arm affect how level the claw is
+- how far or close does the bot need to be to reach the can
+- what's the 'goldilocks' up and down/open and close turn rate
+
+
+
+Speedbot:
+
+- when turning left or right, what's the displacement
+- has the 'goldilocks' right (103 degrees) and left (95) turn rate changed after we changed the axels
+-
