@@ -1,4 +1,4 @@
-Claw/Arm:
+Claw/Arm Questions:
 
 - When told to raise (or lower) its arm past its limit, will the moter keep turn, and more importantly do we need to keep the limit in mind so as to not damage the robot
 - same question but with the claw
@@ -7,6 +7,15 @@ Claw/Arm:
 - how far or close does the bot need to be to reach the can
 - what's the 'goldilocks' up and down/open and close turn rate
 
+
+Claw/Arm Answers:
+
+- The arm motor won't keep turning when told to go past its limit, so make the nu ber high to be sure it's in the right 'upright' position
+- >270 good to close/open claw
+-The balance of the claw is the same no matter the arm orientation
+
+
+- 
 
 
 Speedbot:
